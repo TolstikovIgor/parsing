@@ -1,0 +1,170 @@
+{
+    "total": 14212,
+    "values": [
+        {
+            "id": 6707,
+            "starts_at": "2040-12-12T00:00:00+0300",
+            "name": "Регистрируйся!",
+            "url": "https:\/\/c-club.timepad.ru\/event\/6707\/",
+            "categories": [
+                {
+                    "id": 462,
+                    "name": "Другие события"
+                }
+            ],
+            "moderation_status": "shown"
+        },
+        {
+            "id": 24598,
+            "starts_at": "2022-04-30T00:00:00+0300",
+            "name": "Восход солнца",
+            "url": "https:\/\/artyfarty.timepad.ru\/event\/24598\/",
+            "poster_image": {
+                "default_url": "https:\/\/ucare.timepad.ru\/582639f4-6cb7-4b27-9931-690e5be4cd1f\/-\/crop\/917x265\/0,111\/-\/preview\/-\/preview\/308x600\/-\/format\/jpeg\/poster_event_24598.jpg",
+                "uploadcare_url": "\/\/ucare.timepad.ru\/582639f4-6cb7-4b27-9931-690e5be4cd1f\/"
+            },
+            "categories": {},
+            "moderation_status": "not_moderated"
+        },
+        {
+            "id": 59918,
+            "starts_at": "2021-03-20T10:00:00+0300",
+            "name": "Тренинг &quot;Эффективные переговоры в бизнесе&quot;",
+            "url": "https:\/\/goldenpegas.timepad.ru\/event\/59918\/",
+            "poster_image": {
+                "default_url": "https:\/\/ucare.timepad.ru\/13268625-b1d7-4eae-b074-98d6271dbabf\/-\/preview\/308x600\/-\/format\/jpeg\/poster_event_59918.jpg",
+                "uploadcare_url": "\/\/ucare.timepad.ru\/13268625-b1d7-4eae-b074-98d6271dbabf\/"
+            },
+            "categories": [
+                {
+                    "id": 217,
+                    "name": "Бизнес"
+                }
+            ],
+            "moderation_status": "shown"
+        },
+        {
+            "id": 73787,
+            "starts_at": "2021-03-17T10:00:00+0300",
+            "name": "Тренинг «Управление другими: как стать успешным руководителем. Вы или Вас? Личная эффективность руководителя&quot;»",
+            "url": "https:\/\/goldenpegas.timepad.ru\/event\/73787\/",
+            "poster_image": {
+                "default_url": "https:\/\/ucare.timepad.ru\/b424d7db-2c6f-4907-9569-3eae0f3b69c6\/-\/preview\/308x600\/-\/format\/jpeg\/poster_event_73787.jpg",
+                "uploadcare_url": "\/\/ucare.timepad.ru\/b424d7db-2c6f-4907-9569-3eae0f3b69c6\/"
+            },
+            "categories": [
+                {
+                    "id": 217,
+                    "name": "Бизнес"
+                }
+            ],
+            "moderation_status": "featured"
+        },
+        {
+            "id": 78741,
+            "starts_at": "2021-03-13T10:00:00+0300",
+            "name": "Тренинг по продажам «ДА = ЖИМ» Или «Что нужно сделать, чтобы получить окончательное «Да»",
+            "url": "https:\/\/goldenpegas.timepad.ru\/event\/78741\/",
+            "poster_image": {
+                "default_url": "https:\/\/ucare.timepad.ru\/5cb3025f-84d7-4bf2-ac9f-6f2a932a26c5\/-\/preview\/308x600\/-\/format\/jpeg\/poster_event_78741.jpg",
+                "uploadcare_url": "\/\/ucare.timepad.ru\/5cb3025f-84d7-4bf2-ac9f-6f2a932a26c5\/"
+            },
+            "categories": [
+                {
+                    "id": 217,
+                    "name": "Бизнес"
+                }
+            ],
+            "moderation_status": "shown"
+        },
+        {
+            "id": 78858,
+            "starts_at": "2021-03-24T10:00:00+0300",
+            "name": "&quot;Личная эффективность руководителя &quot;",
+            "url": "https:\/\/goldenpegas.timepad.ru\/event\/78858\/",
+            "poster_image": {
+                "default_url": "https:\/\/ucare.timepad.ru\/ad3e3296-ac7f-4376-8e41-9a682f219206\/-\/preview\/308x600\/-\/format\/jpeg\/poster_event_78858.jpg",
+                "uploadcare_url": "\/\/ucare.timepad.ru\/ad3e3296-ac7f-4376-8e41-9a682f219206\/"
+            },
+            "categories": [
+                {
+                    "id": 217,
+                    "name": "Бизнес"
+                }
+            ],
+            "moderation_status": "shown"
+        },
+        {
+            "id": 79780,
+            "starts_at": "2025-10-08T19:00:00+0300",
+            "name": "Консалтинговый курс «Бизнес-прорыв»",
+            "url": "https:\/\/upsales.timepad.ru\/event\/79780\/",
+            "poster_image": {
+                "default_url": "https:\/\/ucare.timepad.ru\/08b78a4c-f494-4bdd-9832-90409e807720\/-\/preview\/308x600\/-\/format\/jpeg\/poster_event_79780.jpg",
+                "uploadcare_url": "\/\/ucare.timepad.ru\/08b78a4c-f494-4bdd-9832-90409e807720\/"
+            },
+            "categories": [
+                {
+                    "id": 217,
+                    "name": "Бизнес"
+                }
+            ],
+            "moderation_status": "shown"
+        },
+        {
+            "id": 90156,
+            "starts_at": "2021-03-13T10:00:00+0300",
+            "name": "Школа личностного роста «Life-дизайн. Личная эффективность и уверенное поведение»",
+            "url": "https:\/\/goldenpegas.timepad.ru\/event\/90156\/",
+            "poster_image": {
+                "default_url": "https:\/\/ucare.timepad.ru\/a2f6be9d-ec80-49ae-838a-e9ec1accbbdf\/-\/preview\/308x600\/-\/format\/jpeg\/poster_event_90156.jpg",
+                "uploadcare_url": "\/\/ucare.timepad.ru\/a2f6be9d-ec80-49ae-838a-e9ec1accbbdf\/"
+            },
+            "categories": [
+                {
+                    "id": 453,
+                    "name": "Психология и самопознание"
+                }
+            ],
+            "moderation_status": "shown"
+        },
+        {
+            "id": 90177,
+            "starts_at": "2021-03-21T10:00:00+0300",
+            "name": "Тренинг по тайм-менеджменту «Капитан на корабле времени»",
+            "url": "https:\/\/goldenpegas.timepad.ru\/event\/90177\/",
+            "poster_image": {
+                "default_url": "https:\/\/ucare.timepad.ru\/813c0421-faa8-43e1-b938-fbbd81e02765\/-\/crop\/1600x583\/0,242\/-\/resize\/1200x437\/-\/preview\/308x600\/-\/format\/jpeg\/poster_event_90177.jpg",
+                "uploadcare_url": "\/\/ucare.timepad.ru\/813c0421-faa8-43e1-b938-fbbd81e02765\/"
+            },
+            "categories": [
+                {
+                    "id": 217,
+                    "name": "Бизнес"
+                }
+            ],
+            "moderation_status": "featured"
+        },
+        {
+            "id": 93606,
+            "starts_at": "2021-04-13T12:00:00+0300",
+            "name": "Как интернет-предпринимателю подготовиться и грамотно провести переговоры с потенциальным инвестором.",
+            "url": "https:\/\/investitsionnaya-mehanik.timepad.ru\/event\/93606\/",
+            "poster_image": {
+                "default_url": "https:\/\/ucare.timepad.ru\/19c12d5e-33ab-4447-92a3-789e5e6a4792\/-\/preview\/308x600\/-\/format\/jpeg\/poster_event_93606.jpg",
+                "uploadcare_url": "\/\/ucare.timepad.ru\/19c12d5e-33ab-4447-92a3-789e5e6a4792\/"
+            },
+            "categories": [
+                {
+                    "id": 452,
+                    "name": "ИТ и интернет"
+                },
+                {
+                    "id": 1315,
+                    "name": "Образование за рубежом"
+                }
+            ],
+            "moderation_status": "shown"
+        }
+    ]
+}
