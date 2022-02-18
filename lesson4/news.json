@@ -1,0 +1,193 @@
+[{
+  "_id": {
+    "$oid": "604f9291e3a8450078926fe8"
+  },
+  "name_source": "lenta.ru",
+  "name_news": "Курс рубля резко укрепился",
+  "link_news": "https://lenta.ru/news/2021/03/15/stay_strong/",
+  "date_news": "15.03.2021"
+},{
+  "_id": {
+    "$oid": "604f9291e3a8450078926fe9"
+  },
+  "name_source": "lenta.ru",
+  "name_news": "Опубликован список номинантов на «Оскар»",
+  "link_news": "https://lenta.ru/news/2021/03/15/ocsar_nominations/",
+  "date_news": "15.03.2021"
+},{
+  "_id": {
+    "$oid": "604f9291e3a8450078926fea"
+  },
+  "name_source": "lenta.ru",
+  "name_news": "Бывший боец полка имени Кадырова рассказал о массовых расправах в Чечне",
+  "link_news": "https://lenta.ru/news/2021/03/15/polk/",
+  "date_news": "15.03.2021"
+},{
+  "_id": {
+    "$oid": "604f9291e3a8450078926feb"
+  },
+  "name_source": "lenta.ru",
+  "name_news": "Названо число погибших в Сирии российских военных",
+  "link_news": "https://lenta.ru/news/2021/03/15/syria_losses/",
+  "date_news": "15.03.2021"
+},{
+  "_id": {
+    "$oid": "604f9291e3a8450078926fec"
+  },
+  "name_source": "lenta.ru",
+  "name_news": "В Госдуме заявили о бедности в России на уровне 40 процентов",
+  "link_news": "https://lenta.ru/news/2021/03/15/poor_russians/",
+  "date_news": "15.03.2021"
+},{
+  "_id": {
+    "$oid": "604f9291e3a8450078926fed"
+  },
+  "name_source": "lenta.ru",
+  "name_news": "В США предложили «отдать» Украину России",
+  "link_news": "https://lenta.ru/news/2021/03/15/otdat_ukrainu/",
+  "date_news": "15.03.2021"
+},{
+  "_id": {
+    "$oid": "604f9291e3a8450078926fee"
+  },
+  "name_source": "lenta.ru",
+  "name_news": "В России от коронавируса привились 3,5 миллиона человек",
+  "link_news": "https://lenta.ru/news/2021/03/15/privivka/",
+  "date_news": "15.03.2021"
+},{
+  "_id": {
+    "$oid": "604f9291e3a8450078926fef"
+  },
+  "name_source": "lenta.ru",
+  "name_news": "ФИФА возбудила дела против российских футболистов",
+  "link_news": "https://lenta.ru/news/2021/03/15/fifa_dopping/",
+  "date_news": "15.03.2021"
+},{
+  "_id": {
+    "$oid": "604f9291e3a8450078926ff0"
+  },
+  "name_source": "Evo-rus.com",
+  "name_news": "Четыре неразгаданные тайны Земли перечислены исследователями Британии",
+  "link_news": "https://yandex.ru/news/story/CHetyre_nerazgadannye_tajny_Zemli_perechisleny_issledovatelyami_Britanii--faf6222f91143257ef75c8beaac36e48?lang=ru&rubric=science&fan=1&stid=dcLtao_m1AtKxrifX3gM&t=1615827031&persistent_id=135344389",
+  "date_news": "15.03.2021 17:18"
+},{
+  "_id": {
+    "$oid": "604f9291e3a8450078926ff1"
+  },
+  "name_source": "Говорит Уфа",
+  "name_news": "Учеными из NASA и Японии установлен точный год апокалипсиса на Земле из-за исчезновения O₂",
+  "link_news": "https://yandex.ru/news/story/Uchenymi_izNASA_i_YAponii_ustanovlen_tochnyj_god_apokalipsisa_naZemle_iz-zaischeznoveniya_O--5c4b65c3b1383691efd61b5ecf5da00c?lang=ru&rubric=science&fan=1&stid=u7BhPo4U8ZC6FOQi9awf&t=1615827031&persistent_id=135038067",
+  "date_news": "15.03.2021 18:18"
+},{
+  "_id": {
+    "$oid": "604f9291e3a8450078926ff2"
+  },
+  "name_source": "Evo-rus.com",
+  "name_news": "Математику из Дании удалось решить 40-летнюю задачу поиска кратчайшего пути",
+  "link_news": "https://yandex.ru/news/story/Matematiku_izDanii_udalos_reshit_40-letnyuyu_zadachu_poiska_kratchajshego_puti--0894cbf9cb12fd370dc1a381f8982e7c?lang=ru&rubric=science&fan=1&stid=jO_PH_UjfvrQ_leEtfrL&t=1615827031&persistent_id=135268419",
+  "date_news": "15.03.2021 18:53"
+},{
+  "_id": {
+    "$oid": "604f9291e3a8450078926ff3"
+  },
+  "name_source": "SMINEWS в Иванове",
+  "name_news": "Аспирантка ЧелГУ обнаружила в Челябинском метеорите неизвестную на Земле форму углерода",
+  "link_news": "https://yandex.ru/news/story/Aspirantka_CHelGU_obnaruzhila_vCHelyabinskom_meteorite_neizvestnuyu_naZemle_formu_ugleroda--1fd0a963659b6f350d585a01622f81cb?lang=ru&rubric=science&fan=1&stid=K-4TqEaoYdBx9JiXMDGW&t=1615827031&persistent_id=135508294",
+  "date_news": "15.03.2021 19:32"
+},{
+  "_id": {
+    "$oid": "604f9291e3a8450078926ff4"
+  },
+  "name_source": "Evo-rus.com",
+  "name_news": "Лайнер CR929 с крылом, оснащенным серповидной законцовкой, успешно испытали в ЦАГИ",
+  "link_news": "https://yandex.ru/news/story/Lajner_CR929_skrylom_osnashhennym_serpovidnoj_zakoncovkoj_uspeshno_ispytali_vCAGI--692797c24924884cc0fbae932d833126?lang=ru&rubric=science&fan=1&stid=bgliBIb6LNyPc0BmxwR7&t=1615827031&persistent_id=135100385",
+  "date_news": "15.03.2021 19:13"
+},{
+  "_id": {
+    "$oid": "604f9291e3a8450078926ff5"
+  },
+  "name_source": "Известия",
+  "name_news": "Италия, Франция и ФРГ остановили применение вакцины AstraZeneca",
+  "link_news": "https://news.mail.ru/society/45564173/",
+  "date_news": "15.03.2021"
+},{
+  "_id": {
+    "$oid": "604f9291e3a8450078926ff6"
+  },
+  "name_source": "Lenta.Ru",
+  "name_news": "Игрок «Спартака» объяснил высокие зарплаты хоккеистов",
+  "link_news": "https://sportmail.ru/news/hockey-khl/45564108/",
+  "date_news": "15.03.2021"
+},{
+  "_id": {
+    "$oid": "604f9291e3a8450078926ff7"
+  },
+  "name_source": "BBC News Русская служба",
+  "name_news": "«Кровавое воскресенье» в Мьянме: десятки погибших",
+  "link_news": "https://news.mail.ru/incident/45559698/",
+  "date_news": "15.03.2021"
+},{
+  "_id": {
+    "$oid": "604f9291e3a8450078926ff8"
+  },
+  "name_source": "Ведомости",
+  "name_news": "В Минздраве назвали ускоренное старение последствием COVID-19",
+  "link_news": "https://news.mail.ru/society/45562664/",
+  "date_news": "15.03.2021"
+},{
+  "_id": {
+    "$oid": "604f9291e3a8450078926ff9"
+  },
+  "name_source": "Новости Mail.ru",
+  "name_news": "В Египте обнаружили руины древнего христианского монастыря",
+  "link_news": "https://news.mail.ru/society/45564662/",
+  "date_news": "15.03.2021"
+},{
+  "_id": {
+    "$oid": "604f9291e3a8450078926ffa"
+  },
+  "name_source": "РБК",
+  "name_news": "Крупный производитель сахара заявил о росте оптовых цен на 78%",
+  "link_news": "https://news.mail.ru/economics/45561882/",
+  "date_news": "15.03.2021"
+},{
+  "_id": {
+    "$oid": "604f9291e3a8450078926ffb"
+  },
+  "name_source": "Питомцы Mail.Ru",
+  "name_news": "На Кубани курица взяла под опеку семерых котят (видео)",
+  "link_news": "https://news.mail.ru/society/45564208/",
+  "date_news": "15.03.2021"
+},{
+  "_id": {
+    "$oid": "604f9291e3a8450078926ffc"
+  },
+  "name_source": "Ведомости",
+  "name_news": "Экономисты заявили об окончании рецессии в России",
+  "link_news": "https://news.mail.ru/economics/45561915/",
+  "date_news": "15.03.2021"
+},{
+  "_id": {
+    "$oid": "604f9291e3a8450078926ffd"
+  },
+  "name_source": "Новости Mail.ru",
+  "name_news": "Морж из Арктики уснул на льдине и приплыл в Ирландию (видео)",
+  "link_news": "https://news.mail.ru/society/45562707/",
+  "date_news": "15.03.2021"
+},{
+  "_id": {
+    "$oid": "604f9291e3a8450078926ffe"
+  },
+  "name_source": "Новости Mail.ru",
+  "name_news": "Американец стал миллионером благодаря случайному звонку",
+  "link_news": "https://news.mail.ru/society/45561548/",
+  "date_news": "15.03.2021"
+},{
+  "_id": {
+    "$oid": "604f9291e3a8450078926fff"
+  },
+  "name_source": "Новости Mail.ru",
+  "name_news": "В Гэмпшире появилось граффити, которое мог нарисовать Бэнкси",
+  "link_news": "https://news.mail.ru/society/45564530/",
+  "date_news": "15.03.2021"
+}]
