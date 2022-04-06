@@ -1,6 +1,9 @@
 # Методы сбора и обработки данных из сети Интернет
 ![](logo.png)
 #### Факультет Data Engineering
+___
+#### [Курсовой проект](https://github.com/TolstikovIgor/parsing/tree/main/lesson8)
+Парсинг Инстаграмм
 ____
 #### [Урок 1. Основы клиент-серверного взаимодействия. Парсинг API](https://github.com/TolstikovIgor/parsing/tree/main/lesson1)
 * Парсинг, скрапинг, краулинг
